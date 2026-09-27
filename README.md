@@ -43,4 +43,4 @@ The fixed benchmark contains 32 questions and measures Recall@1, Recall@3 and MR
 
 ## Online demo
 
-The same Streamlit app can be deployed to Streamlit Community Cloud. In the online version, Ollama is normally unavailable, so the app safely falls back to showing the retrieved evidence.
+https://python-rag-study-assistant-emre.streamlit.app/
