@@ -1,0 +1,5 @@
+streamlit>=1.40
+scikit-learn>=1.5
+numpy>=2.0
+requests>=2.32
+beautifulsoup4>=4.12
